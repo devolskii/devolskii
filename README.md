@@ -1,9 +1,9 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=220&section=header&text=WORKERS%20OF%20THE%20WORLD%2C%20UNITE!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=The%20point%2C%20however%2C%20is%20to%20change%20it&descSize=17&descAlignY=58" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=220&section=header&text=WORKERS%20OF%20THE%20WORLD%2C%20UNITE!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="header" />
 <div align="center">
 
 # 👋 Hi, I'm **Debol Mondal**
 
-[![Revolutionary Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Workers+of+the+world%2C+unite!;Permanent+Revolution+now!;sudo+rm+-rf+capitalism;Arch+BTW+%7C+Neovim+%7C+React+%7C+Node;Guitarist%2C+Rapper%2C+Revolutionary)](https://git.io/typing-svg)
+[![Revolutionary Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Lose+the+chains+!;Permanent+Revolution+now!;sudo+rm+-rf+capitalism;Arch+BTW+%7C+Neovim+%7C+React+%7C+Node;Guitarist%2C+Rapper%2C+Revolutionary)](https://git.io/typing-svg)
 
 > _"The programmers have only interpreted the web in various ways; the point, however, is to change it."_ 🚩
 
