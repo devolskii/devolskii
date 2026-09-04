@@ -1,8 +1,9 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=220&section=header&text=WORKERS%20OF%20THE%20WORLD%2C%20UNITE!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=The%20point%2C%20however%2C%20is%20to%20change%20it&descSize=17&descAlignY=58" alt="header" />
 <div align="center">
 
 # 👋 Hi, I'm **Debol Mondal**
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7345C&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;MCA+%40+Jadavpur+University;Arch+Linux+%7C+Neovim+%7C+React+%7C+Node;Guitarist+%2C+Rapper+%2C+Revolutionary)](https://git.io/typing-svg)
+[![Revolutionary Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Workers+of+the+world%2C+unite!;Permanent+Revolution+now!;sudo+rm+-rf+capitalism;Arch+BTW+%7C+Neovim+%7C+React+%7C+Node;Guitarist%2C+Rapper%2C+Revolutionary)](https://git.io/typing-svg)
 
 > _"The programmers have only interpreted the web in various ways; the point, however, is to change it."_ 🚩
 
@@ -142,11 +143,18 @@ Async caching to minimize network payload, lazy-loaded bundles, and global state
 
 ### 🎧 **Now Playing**
 
+<a href="https://open.spotify.com/album/5vPNBZgTGL4pWJ7LkFw3sx?si=e08YUc3PT0qXYFNXXK7iGA"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXYgGyxwqVyrGvRHlPjKpWozq_HU11HJDX9XAD7TnQFyzu3B4_mLbGzSc&s=10" width="352" alt="Avara - why do women jump in the fire?" /></a>
+<br />
 ▶ [Avara - why do women jump in the fire?](https://open.spotify.com/album/5vPNBZgTGL4pWJ7LkFw3sx?si=e08YUc3PT0qXYFNXXK7iGA)
+<br /><br /><br />
+<a href="https://open.spotify.com/playlist/34bgvHkCb3XvYQSUzDbdA3?si=4c446a21ecee4d2c"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da849371a4a12b43a32b10cfa488" width="352" alt="making out with gwen stacy on earth-1218" /></a>
 <br />
-♫ [making out with gwen stacy on earth-1218](https://open.spotify.com/playlist/34bgvHkCb3XvYQSUzDbdA3?si=aad0074a9988408e)
+♫ [making out with gwen stacy on earth-1218](https://open.spotify.com/playlist/34bgvHkCb3XvYQSUzDbdA3?si=4c446a21ecee4d2c)
+<br /><br /><br />
+<a href="https://open.spotify.com/playlist/3faVK6uATs2w9QuPXkb0Hx?si=6e3117f6a2834fac"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0
+000da849e8aaf5f201f6ca801f38875" width="352" alt="MELODIC MONK RAP" /></a>
 <br />
-⚡ [MELODIC MONK RAP](https://open.spotify.com/playlist/3faVK6uATs2w9QuPXkb0Hx?si=e77032da5add4ff6)
+⚡ [MELODIC MONK RAP](https://open.spotify.com/playlist/3faVK6uATs2w9QuPXkb0Hx?si=6e3117f6a2834fac)
 
 <br />
 
