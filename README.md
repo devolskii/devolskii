@@ -151,8 +151,7 @@ Async caching to minimize network payload, lazy-loaded bundles, and global state
 <br />
 ♫ [making out with gwen stacy on earth-1218](https://open.spotify.com/playlist/34bgvHkCb3XvYQSUzDbdA3?si=4c446a21ecee4d2c)
 <br /><br /><br />
-<a href="https://open.spotify.com/playlist/3faVK6uATs2w9QuPXkb0Hx?si=6e3117f6a2834fac"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0
-000da849e8aaf5f201f6ca801f38875" width="352" alt="MELODIC MONK RAP" /></a>
+<a href="https://open.spotify.com/playlist/3faVK6uATs2w9QuPXkb0Hx?si=6e3117f6a2834fac"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da849e8aaf5f201f6ca801f38875" width="352" alt="MELODIC MONK RAP" /></a>
 <br />
 ⚡ [MELODIC MONK RAP](https://open.spotify.com/playlist/3faVK6uATs2w9QuPXkb0Hx?si=6e3117f6a2834fac)
 
