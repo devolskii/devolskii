@@ -4,6 +4,8 @@
 
 I'm a **Full-Stack Developer** and **MCA Candidate at Jadavpur University** building resilient, performant, and accessible web systems. When I'm not writing code or tweaking my Linux environment, you'll find me jamming on my guitar, writing songs, or diving into revolutionary Marxism Leninism (the Trotskyist kind).
 
+![LENIN](https://i.pinimg.com/originals/83/bc/05/83bc0502fd2d3ff09993bb73467279e8.gif)
+
 ---
 
 ### 🎸 **What I'm Up To**
