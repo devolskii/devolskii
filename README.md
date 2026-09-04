@@ -17,22 +17,29 @@
 
 ---
 
+<div align="center">
+
 ### 🎸 **What I'm Up To**
 
-- 🎓 **Education:** MCA @ Jadavpur University ('27) | B.Sc. CS @ BESC ('24)
-- 💻 **Focus:** Full-stack web apps, performance, accessibility
-- 🎵 **Music:** Guitarist, Bengali rock vocalist, hip-hop enthusiast and rapper
-- ⚙️ **Workflow:** Customizing Waybar, Matugen, Hyprlock, Neovim, and Arch dotfiles
+🎓 **Education:** MCA @ Jadavpur University ('27) | B.Sc. CS @ BESC ('24)
+<br />
+💻 **Focus:** Full-stack web apps, performance, accessibility
+<br />
+🎵 **Music:** Guitarist, Bengali rock vocalist, hip-hop enthusiast and rapper
+<br />
+⚙️ **Workflow:** Customizing Waybar, Matugen, Hyprlock, Neovim, and Arch dotfiles
 
-<div align="center">
-  <img src="https://giffiles.alphacoders.com/206/206736.gif" alt="Mr Robot" width="450" />
+<br />
+
+<img src="https://giffiles.alphacoders.com/206/206736.gif" alt="Mr Robot" width="450" />
+
 </div>
 
 ---
 
-### 🛠️ **Tech & Tooling**
-
 <div align="center">
+
+### 🛠️ **Tech & Tooling**
 
 #### Languages
 
@@ -63,6 +70,8 @@
 
 ---
 
+<div align="center">
+
 ### 🚀 **Featured Projects**
 
 #### 🎓 [**JUMCA Portal**](https://github.com/JU-MCA-2025-26/jumca-portal/tree/develop)
@@ -74,7 +83,12 @@ _Full-stack class management platform for Jadavpur University MCA._
 ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
-- Dynamic student elective tracking, automated Prisma seeding, CI workflows, and hardened security (Lusca CSRF protection + CodeQL XSS sanitization).
+<br />
+
+Dynamic student elective tracking, automated Prisma seeding, CI workflows, and hardened security (Lusca CSRF protection + CodeQL XSS sanitization).
+
+<br />
+<br />
 
 #### 🚩 [**Antarjatik Path**](https://blpi.vercel.app)
 
@@ -85,7 +99,12 @@ _An internationalist publication platform for theory, debate, and global analysi
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![shadcn](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
 
-- Headless content pipeline via custom GROQ queries, real-time preview, scroll-synced Table of Contents, and accessible reading experience.
+<br />
+
+Headless content pipeline via custom GROQ queries, real-time preview, scroll-synced Table of Contents, and accessible reading experience.
+
+<br />
+<br />
 
 #### 🛒 [**Comfy Store**](https://comfy-store-new.netlify.app/)
 
@@ -96,13 +115,17 @@ _Modern responsive SPA storefront with optimized state architecture._
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
 ![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=axios&logoColor=white)
 
-- Async caching to minimize network payload, lazy-loaded bundles, and global state management.
+<br />
+
+Async caching to minimize network payload, lazy-loaded bundles, and global state management.
+
+</div>
 
 ---
 
-### 📊 **GitHub Stats**
-
 <div align="center">
+
+### 📊 **GitHub Stats**
 
 ![Metrics](./github-metrics.svg)
 ![Languages](./github-metrics-languages.svg)
@@ -115,21 +138,27 @@ _Modern responsive SPA storefront with optimized state architecture._
 
 ---
 
+<div align="center">
+
 ### 🎧 **Now Playing**
 
-- ▶ [Avara - why do women jump in the fire?](https://open.spotify.com/album/5vPNBZgTGL4pWJ7LkFw3sx?si=e08YUc3PT0qXYFNXXK7iGA)
-- ♫ [making out with gwen stacy on earth-1218](https://open.spotify.com/playlist/34bgvHkCb3XvYQSUzDbdA3?si=aad0074a9988408e)
-- ⚡ [MELODIC MONK RAP](https://open.spotify.com/playlist/3faVK6uATs2w9QuPXkb0Hx?si=e77032da5add4ff6)
+▶ [Avara - why do women jump in the fire?](https://open.spotify.com/album/5vPNBZgTGL4pWJ7LkFw3sx?si=e08YUc3PT0qXYFNXXK7iGA)
+<br />
+♫ [making out with gwen stacy on earth-1218](https://open.spotify.com/playlist/34bgvHkCb3XvYQSUzDbdA3?si=aad0074a9988408e)
+<br />
+⚡ [MELODIC MONK RAP](https://open.spotify.com/playlist/3faVK6uATs2w9QuPXkb0Hx?si=e77032da5add4ff6)
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/3oKIPlzklaBp5mSyzK/giphy.gif" alt="KENDRICK LAMAR" width="400" />
+<br />
+
+<img src="https://media1.giphy.com/media/3oKIPlzklaBp5mSyzK/giphy.gif" alt="KENDRICK LAMAR" width="400" />
+
 </div>
 
 ---
 
-### 📫 **Connect With Me**
-
 <div align="center">
+
+### 📫 **Connect With Me**
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devolskii@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/debolmondal)
