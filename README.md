@@ -1,9 +1,6 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=220&section=header&text=WORKERS%20OF%20THE%20WORLD%2C%20UNITE!&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=36" alt="header" />
-<div align="center">
-
 # 👋 Hi, I'm **Debol Mondal**
 
-[![Revolutionary Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Lose+the+chains+!;Permanent+Revolution+now!;sudo+rm+-rf+capitalism;Arch+BTW+%7C+Neovim+%7C+React+%7C+Node;Guitarist%2C+Rapper%2C+Revolutionary)](https://git.io/typing-svg)
+[![Revolutionary Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=700&lines=Lose+the+chains+!;sudo+rm+-rf+capitalism;Arch+BTW+%7C+Neovim+%7C+React+%7C+Node;Guitarist%2C+Rapper%2C+Revolutionary)](https://git.io/typing-svg)
 
 > _"The programmers have only interpreted the web in various ways; the point, however, is to change it."_ 🚩
 
@@ -143,6 +140,11 @@ Async caching to minimize network payload, lazy-loaded bundles, and global state
 
 ### 🎧 **Now Playing**
 
+<a href="https://open.spotify.com/album/3USVrx7nHuxP8BYhOa382j?si=3eMIc33dRDOS_GMH85hFLg"><img src="https://i.redd.it/0k2tizl3olyh1.jpeg" width="352" alt="sufr - calcuttakiss">
+<br />
+[sufr - calcuttakiss](https://open.spotify.com/album/3USVrx7nHuxP8BYhOa382j?si=3eMIc33dRDOS_GMH85hFLg)
+<br /><br /><br />
+
 <a href="https://open.spotify.com/album/5vPNBZgTGL4pWJ7LkFw3sx?si=e08YUc3PT0qXYFNXXK7iGA"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfXYgGyxwqVyrGvRHlPjKpWozq_HU11HJDX9XAD7TnQFyzu3B4_mLbGzSc&s=10" width="352" alt="Avara - why do women jump in the fire?" /></a>
 <br />
 ▶ [Avara - why do women jump in the fire?](https://open.spotify.com/album/5vPNBZgTGL4pWJ7LkFw3sx?si=e08YUc3PT0qXYFNXXK7iGA)
@@ -155,7 +157,15 @@ Async caching to minimize network payload, lazy-loaded bundles, and global state
 <br />
 ⚡ [MELODIC MONK RAP](https://open.spotify.com/playlist/3faVK6uATs2w9QuPXkb0Hx?si=6e3117f6a2834fac)
 
+<br /><br />
+<a href="https://open.spotify.com/playlist/42Mowsc2VTavCIlauKgS46?si=7fb0309269ea434c"><img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000d72cbf89f61cf3e24a3c34416789" height="352" width="352" alt="This I Call Souled Out RnB" /></a>
 <br />
+⚡ [This I Call Souled Out RnB](https://open.spotify.com/playlist/42Mowsc2VTavCIlauKgS46?si=7fb0309269ea434c)
+
+<br /><br />
+<a href="https://open.spotify.com/playlist/6NEVaXWFTD9sKaiDfJEqm5?si=c7a02c7e52f044e1"><img src="https://mosaic.scdn.co/300/ab67616d00001e022c1f34ecc1929fb59908aad1ab67616d00001e026938311000a0e494a26986e5ab67616d00001e028940ac99f49e44f59e6f7fb3ab67616d00001e02e0436c2da0c63c4b5fec22fa" width="352" alt="Evergreen Heartbreaks" /></a>
+<br />
+⚡ [Evergreen Heartbreaks](https://open.spotify.com/playlist/6NEVaXWFTD9sKaiDfJEqm5?si=c7a02c7e52f044e1)
 
 <img src="https://media1.giphy.com/media/3oKIPlzklaBp5mSyzK/giphy.gif" alt="KENDRICK LAMAR" width="400" />
 
